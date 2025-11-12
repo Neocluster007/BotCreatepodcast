@@ -62,7 +62,7 @@ visualizer_clip = None
 final_video = None
 
 try:
-    GEMINI_API_KEY = "AIzaSyD-raaUywTYrxRyqCrcqCcdjomfGmHWTdA"
+    GEMINI_API_KEY = ""
     genaiA.configure(api_key=GEMINI_API_KEY)
 except ValueError as e:
     print(e)
