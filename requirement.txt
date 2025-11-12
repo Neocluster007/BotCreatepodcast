@@ -1,0 +1,18 @@
+# Google APIs (YouTube & Gemini)
+google-api-python-client
+google-auth-oauthlib
+google-generativeai
+
+# Video & Audio Processing
+moviepy
+soundfile
+numpy
+
+# Image Processing
+Pillow
+
+# HTTP Requests
+requests
+
+# Scheduling
+schedule
